@@ -33,5 +33,6 @@ module.exports = {
 		],
 		'no-tabs': 0,
 		'no-console': 0,
+		'@typescript-eslint/indent': 0,
 	},
 };
